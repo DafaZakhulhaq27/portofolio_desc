@@ -50,6 +50,6 @@ My role is here as a <strong>Front End Developer </strong>, tasked with convert 
 
 ## Technology
 This is the technology that I use from the front end side :
-- [Google Map API]https://developers.google.com/maps/documentation/javascript/overview)
+- [Google Map API](https://developers.google.com/maps/documentation/javascript/overview)
 - [Capasitor JS](https://capacitorjs.com/)
 - [React JS](https://reactjs.org/)
