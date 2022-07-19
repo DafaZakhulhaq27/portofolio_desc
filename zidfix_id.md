@@ -49,6 +49,6 @@ Berikut list fitur dari aplikasi:
 Peran saya di sini sebagai <strong>Front End Developer </strong>, bertugas mengubah desain dari UI UX Designer menjadi scallabel dan aplikasi yang dapat dipelihara, serta integrasi API dari Backend Developer. Saya membuat aplikasi seluler dan web
 ## Technology
 Berikut teknologi yang saya gunakan dari sisi front end :
-- [Google Map API]https://developers.google.com/maps/documentation/javascript/overview)
+- [Google Map API](https://developers.google.com/maps/documentation/javascript/overview)
 - [Capasitor JS](https://capacitorjs.com/)
 - [React JS](https://reactjs.org/)
