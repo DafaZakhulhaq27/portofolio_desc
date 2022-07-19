@@ -29,7 +29,7 @@
 
 ## Introduction
 
-Is an application for medical consultation. There are 2 migrant doctor applications, namely applications for users and doctors, this is a doctor's application. Here I am in charge of working on the auth, home, and consulting features. In the consulting feature this happens in real time using socket io . Can send text messages, pictures and send prescription drugs. There are also telephone and video call features, here I use a third-party library, namely agora.io
+E-library is an internal online library application at Angkasa Pura. Has the usual features of a library, such as a list of books, reading books, bookmarking favorite books, etc. This application can only be used by users who are registered as employees.E-library is an internal online library application at Angkasa Pura. Has the usual features of a library, such as a list of books, reading books, bookmarking favorite books, etc. This application can only be used by users who are registered as employees. Using React Js for its creation
 
 ## Features
 
