@@ -38,7 +38,7 @@ This is the features of the app:
 * Authentication
 * List of service
 * Automatic cost calculation based on distance and type of service
-* Riwayat Order
+* Order History
 
 <p align="center">
   <img src = "https://github.com/DafaZakhulhaq27/portofolio_desc/blob/master/assets/zidfix_ss.png?raw=true" width=700>
