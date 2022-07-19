@@ -1,6 +1,6 @@
 <h1 align="center"> Koperasi Karyawan PLTA Saguling </h1> <br>
 <p align="center">
-  <a href="https://gitpoint.co/">
+  <a>
     <img alt="GitPoint" title="GitPoint" src="https://raw.githubusercontent.com/DafaZakhulhaq27/portofolio_desc/master/assets/kopkar_saguling_logo.png" width="450">
   </a>
 </p>
